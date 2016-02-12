@@ -1,0 +1,2 @@
+# GradleForJava
+这是一个手工使用Gradle构建的Java工程，以供学习Gradle使用
